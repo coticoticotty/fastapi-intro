@@ -1,0 +1,3 @@
+.dockerenv/
+.pytest_cache/
+.venv/
